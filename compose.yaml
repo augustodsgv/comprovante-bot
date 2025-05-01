@@ -1,0 +1,8 @@
+services:
+  comprovante-bot:
+    build: .
+    volumes:
+      - "./data:/data"
+    environment:
+      - BASE_DOWNLOAD_DIR=/data
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
