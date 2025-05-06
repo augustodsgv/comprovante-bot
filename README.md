@@ -4,5 +4,9 @@ update the receipts and send it to Google Drive. It should also create an rows o
 
 ## Todo
 [X] Telegram "Frontend"
-[ ] Google Drive storage
+
+~~[ ] Google Drive storage~~
+
+[X] S3 storage
+
 [ ] Google Spreapsheets
