@@ -4,3 +4,6 @@ venv
 __pycache__
 .env
 .ruff_cache
+*.tfvars
+.terraform*
+terraform.*
